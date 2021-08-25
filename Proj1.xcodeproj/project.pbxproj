@@ -17,6 +17,7 @@
 		B73DA88C26D5AC7F009E6569 /* IMG_20210718_110940728_HDR.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B73DA88826D5AC7F009E6569 /* IMG_20210718_110940728_HDR.jpeg */; };
 		B73DA88D26D5AC7F009E6569 /* IMG-20200422-WA0022.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B73DA88926D5AC7F009E6569 /* IMG-20200422-WA0022.jpeg */; };
 		B73DA88E26D5AC7F009E6569 /* IMG-20200416-WA0016.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B73DA88A26D5AC7F009E6569 /* IMG-20200416-WA0016.jpeg */; };
+		B73DA89026D704BB009E6569 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B73DA88F26D704BB009E6569 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B73DA88826D5AC7F009E6569 /* IMG_20210718_110940728_HDR.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_20210718_110940728_HDR.jpeg; sourceTree = "<group>"; };
 		B73DA88926D5AC7F009E6569 /* IMG-20200422-WA0022.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG-20200422-WA0022.jpeg"; sourceTree = "<group>"; };
 		B73DA88A26D5AC7F009E6569 /* IMG-20200416-WA0016.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG-20200416-WA0016.jpeg"; sourceTree = "<group>"; };
+		B73DA88F26D704BB009E6569 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				B73DA87226D5AC68009E6569 /* AppDelegate.swift */,
 				B73DA87426D5AC68009E6569 /* SceneDelegate.swift */,
 				B73DA87626D5AC68009E6569 /* ViewController.swift */,
+				B73DA88F26D704BB009E6569 /* DetailViewController.swift */,
 				B73DA87826D5AC68009E6569 /* Main.storyboard */,
 				B73DA87B26D5AC69009E6569 /* Assets.xcassets */,
 				B73DA87D26D5AC69009E6569 /* LaunchScreen.storyboard */,
@@ -164,6 +167,7 @@
 				B73DA87726D5AC68009E6569 /* ViewController.swift in Sources */,
 				B73DA87326D5AC68009E6569 /* AppDelegate.swift in Sources */,
 				B73DA87526D5AC68009E6569 /* SceneDelegate.swift in Sources */,
+				B73DA89026D704BB009E6569 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
